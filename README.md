@@ -1,4 +1,4 @@
-# kedarbhosle
+# Kedar_Bhosle
 <h1 align="center">Hi 👋, I'm Kedar Bhosle</h1>
 <h3 align="center">Final-year AI & Data Science student | Data Analyst & ML Enthusiast</h3>
 
@@ -44,10 +44,8 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kedarbhosle&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarbhosle&layout=compact&theme=radical" width="350"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kedar-Bhosle&show_icons=true&theme=radical&count_private=true)
+
 
 ---
 
